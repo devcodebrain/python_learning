@@ -1,6 +1,7 @@
 ## Listas ##
 
 my_list = list()
+my_other_list = []  ## Asi tambien se pueden definir la listas
 my_list.append("Juan")
 my_list.append("Flores")
 print(my_list)
