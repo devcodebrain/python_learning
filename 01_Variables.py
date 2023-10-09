@@ -30,7 +30,7 @@ name,surname,alias,edad = "Juan Antonio","Flores Zaher","devcodebrain",46
 print("Mi nombre es :",name,surname,"me encuentras en Github como:", alias,"y tengo", edad,"años de edad")
 
 #Inputs de consola
-name = input("Ingresa tu Nombre ")
+name = input("Ingresa tu Nombre ")   #< - Espera la entrada del dato por consola del usuario
 edad= input("Ingresa tu edad ")
 print("Tu nomnre es :",name, "y tu edad es",edad)
 
